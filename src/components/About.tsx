@@ -57,7 +57,7 @@ const About: React.FC = () => {
                 Hi, I'm Shashank Kumar
               </h3>
               <p className="text-gray-400 text-lg leading-relaxed">
-                With a solid academic foundation in ECE, I’ve gained deep knowledge in core subjects like Digital Electronics, Signals & Systems, Microprocessors, and Communication Systems. Over time, my curiosity and passion for technology led me to explore the world of software development, where I now focus on building responsive and user-centric web applications. I specialize in frontend development, working with modern tools and frameworks to create clean, intuitive, and performance-optimized interfaces. My unique blend of hardware-level understanding and software skills enables me to approach problems from a broader, systems-level perspective. I’m always eager to learn, build, and collaborate on innovative tech solutions that make a real impact.
+                With a solid academic foundation in ECE, I’ve gained deep knowledge in core subjects like Digital Electronics, Signals & Systems, Microprocessors, and Communication Systems. Over time, my curiosity and passion for technology led me to explore the world of software development, where I now focus on building responsive and user-centric web applications. I specialize in web development, working with modern tools and frameworks to create clean, intuitive, and performance-optimized interfaces. My unique blend of hardware-level understanding and software skills enables me to approach problems from a broader, systems-level perspective. I’m always eager to learn, build, and collaborate on innovative tech solutions that make a real impact.
               </p>
             </div>
 
